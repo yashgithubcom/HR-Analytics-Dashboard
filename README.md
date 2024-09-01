@@ -1,10 +1,6 @@
 # HR-Analytics-Dashboard
 The HR Analytics Dashboard provides a comprehensive view of employee data, tracking key metrics like turnover rates, employee performance, diversity, and hiring trends. It uses interactive visuals to identify patterns and insights, helping HR teams make data-driven decisions to enhance workforce management and strategic planning.
 
-Here’s a revised version of the paragraph:
-
----
-
 **Key Performance Indicators (KPIs):** To initiate the analysis, I identified essential KPIs for tracking and assessing employee performance and attrition. These KPIs were represented using card visualizations in Power BI:
 
 - Employee Count
